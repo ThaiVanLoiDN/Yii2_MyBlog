@@ -1,0 +1,108 @@
+body,
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a,
+h6 a,
+.dt-sidebar .dt-social-icons li .fa,
+a {
+	color: #2f363e;
+}
+
+body {
+	font-size: 15px;
+}
+
+a:hover,
+.dt-footer-cont li a:hover,
+.dt-sec-menu li a:hover,
+.dt-featured-posts-wrap h2 a:hover,
+.dt-pagination-nav .current,
+.dt-footer .dt-news-layout-wrap a:hover {
+	color: #cc2936;
+}
+
+.dt-news-layout2 .dt-news-post:hover,
+.dt-pagination-nav .current,
+.dt-pagination-nav a:hover {
+	border-color: #cc2936;
+}
+
+.sticky {
+	border-color: #cc2936 !important;
+}
+
+.dt-news-layout1 .dt-news-post-img .fa:hover,
+.dt-news-layout-half .dt-news-post-img .fa:hover,
+.dt-sidebar-news .dt-news-post-img .fa:hover,
+.dt-footer h2:after,
+.dt-footer .tagcloud a:hover,
+.dt-related-posts .dt-news-post-img .fa:hover,
+.dt-search-bar,
+.dt-category-posts .dt-news-post-img .fa:hover,
+.dt-category-post-readmore a:hover,
+.dt-nav-md-trigger:hover .fa,
+.tagcloud a:hover {
+	background: #cc2936;
+}
+
+.dt-news-layout1 .dt-news-post-img .fa,
+.dt-news-layout-half .dt-news-post-img .fa,
+.dt-sidebar-news .dt-news-post-img .fa,
+.dt-related-posts .dt-news-post-img .fa,
+.dt-category-posts .dt-news-post-img .fa,
+#back-to-top:hover {
+	background: rgba( 204, 41, 54, 0.75);
+}
+
+.dt-menu-bar,
+.dt-main-menu li ul {
+	background: #cf4141 !important;
+}
+
+.dt-main-menu li a,
+.dt-main-menu li:hover,
+.menu-item-has-children:after,
+.current-menu-item a,
+.dt-nav-md li a,
+.dt-nav-md .menu-item-has-children:after,
+.dt-logo-md a,
+.dt-nav-md-trigger {
+	color: #ffffff;
+}
+
+.dt-main-menu li:hover,
+.dt-main-menu li a:hover,
+.current-menu-item>a,
+.dt-nav-md li a:hover,
+.current-menu-item.menu-item-has-children {
+	background: #be3434 !important;
+}
+
+.dt-main-menu li:hover,
+.dt-main-menu li a:hover,
+.current-menu-item>a,
+.dt-nav-md li a:hover,
+.current-menu-item.menu-item-has-children:after,
+.current-menu-item.menu-item-has-children:hover:after,
+.menu-item-has-children:hover:after,
+.dt-main-menu li:hover>a {
+	color: #ffffff !important;
+}
+
+.dt-related-posts li {
+	width: calc(33.333333% - 20px);
+}
+ img.wp-smiley,
+        img.emoji {
+            display: inline !important;
+            border: none !important;
+            box-shadow: none !important;
+            height: 1em !important;
+            width: 1em !important;
+            margin: 0 .07em !important;
+            vertical-align: -0.1em !important;
+            background: none !important;
+            padding: 0 !important;
+        }
